@@ -9,5 +9,5 @@ The current repository consists of several files:
 1) **Report.docx** - the more detailed description of the table contents as well as the explanation of the work and results of each query/function/trigger etc. performed. Lastly, it has some suggestions for further improvements. 
 2) **data.xlsm** - the Excel file containing the initial tables. The data is generated mostly with random functions provided by Excel. It also has generated `insert into()` code to use in the SQL dump for populating the data.
 3) **ERD.img** - the image of the ERD table to better visualize the tables and their connections.
-4) **SQL_dump.txt** - the .txt file containing all `create table` instructions to create tables with required constraints as well as instructions for populating these tables. 
-5) **SQL_queries** - the .txt file containing all performed SQL queries and PL/SQL functions, triggers, procedures, etc.
+4) **SQL_dump.sql** - the .sql file containing all `create table` instructions to create tables with required constraints as well as instructions for populating these tables. 
+5) **SQL_queries.sql** - the .sql file containing all performed SQL queries and PL/SQL functions, triggers, procedures, etc.
